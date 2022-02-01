@@ -3,7 +3,7 @@
 
 - 👶 15 years
 - 🍝 Favorite Food: Seasoned Noodles
-- 🌐 Learning MYSQL
+- 🐘 Learning PostgreSQL
 
 # Skills
 
@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-33B8FF?style=for-the-badge&logo=python&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/Mongo%20DB-80FF8A?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
