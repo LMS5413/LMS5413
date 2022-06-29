@@ -3,7 +3,7 @@
 
 - 👶 15 years
 - 🍝 Favorite Food: Seasoned Noodles
-- 🐘 Learning PostgreSQL
+- 🐘 Learning TypeScript
 
 # Skills
 
