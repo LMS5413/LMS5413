@@ -25,5 +25,4 @@
 
 ![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
 
-# My Store
-<iframe src="https://discord.com/widget?id=830057303348346921&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
