@@ -22,9 +22,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=LMS5413&show_icons=true&theme=gruvbox)
 ![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&langs_count=16&theme=radical)
 
-
-![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
-
 # My discord
 
 ![Discord](https://lanyard.cnrad.dev/api/425775842371829760)
+
+![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
