@@ -25,4 +25,6 @@
 
 ![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
 
+#My discord
 
+![Discord](https://lanyard.cnrad.dev/api/425775842371829760)
