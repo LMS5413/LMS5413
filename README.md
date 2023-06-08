@@ -1,9 +1,9 @@
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
 
-- 👶 16 years
+- 👶 17 years
 - 🍝 Favorite Food: Seasoned Noodles
-- 🐘 Learning TypeScript
+- ☕ Learning Java
 
 # Skills
 
@@ -13,14 +13,6 @@
 ![Mongo DB](https://img.shields.io/badge/Mongo%20DB-80FF8A?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-# OS Skills
-
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LMS5413&show_icons=true&theme=gruvbox)
-![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&langs_count=16&theme=radical)
 
 # My discord
 
