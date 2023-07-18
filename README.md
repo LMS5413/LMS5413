@@ -16,6 +16,6 @@
 
 # My discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/395995293436477442)](https://discord.com/users/395995293436477442)
+[![Discord Presence](https://lanyard.cnrad.dev/api/846782948916592664)](https://discord.com/users/846782948916592664)
 
 ![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
