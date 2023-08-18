@@ -19,4 +19,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/846782948916592664)](https://discord.com/users/846782948916592664)
 
-![Snake animation]([https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg))
+![Snake Animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg)
