@@ -7,7 +7,7 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  jobs:
+jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
