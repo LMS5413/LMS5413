@@ -3,7 +3,7 @@
 
 - 👶 17 years
 - 🍝 Favorite Food: Seasoned Noodles
-- ☕ Learning Java
+- 🌐 Learning HTML
 
 # Skills
 
