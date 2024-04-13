@@ -4,6 +4,7 @@
 - 👶 17 years
 - 🍝 Favorite Food: Seasoned Noodles
 - 🌐 Learning HTML
+- 🔥 Robotic Basic (Cursed in [UERJ](http://www.iprj.uerj.br))
 
 # Skills
 
@@ -12,6 +13,7 @@
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # OS
 
