@@ -3,7 +3,7 @@
 - 👶 17 years
 - 🍝 Favorite Food: Seasoned Noodles
 - 🌐 Learning HTML
-- 🔥 Robotic Basic (Cursed in [UERJ](http://www.iprj.uerj.br))
+- 🔥 Robotic Basic (Cursed in [IPRJ/UERJ](http://www.iprj.uerj.br))
 
 # Skills
 
