@@ -1,6 +1,5 @@
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
-
 - 👶 17 years
 - 🍝 Favorite Food: Seasoned Noodles
 - 🌐 Learning HTML
@@ -26,3 +25,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/846782948916592664)](https://discord.com/users/846782948916592664)
 
 ![Snake Animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg)
+
+# My Certificates
+<img src="./assets/Insignia.svg"/>
