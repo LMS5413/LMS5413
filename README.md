@@ -1,8 +1,6 @@
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
 - 👶 17 years
-- 🍝 Favorite Food: Seasoned Noodles
-- 🌐 Learning HTML
 - 🔥 Robotic Basic (Cursed in [IPRJ/UERJ](http://www.iprj.uerj.br))
 
 # Skills
