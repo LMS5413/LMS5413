@@ -1,3 +1,6 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/LMS5413/LMS5413/blob/main/assets/10.png'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
 - 👶 17 years
@@ -26,5 +29,3 @@
 
 # Certificates
 <img src="./assets/Insignia.svg"/>
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/LMS5413/LMS5413/blob/main/assets/10.png'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}```
