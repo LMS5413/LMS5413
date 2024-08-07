@@ -12,7 +12,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua_(Basic)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)>
+![Lua](https://img.shields.io/badge/Lua_(Basic)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 # OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
