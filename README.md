@@ -1,7 +1,7 @@
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
 - 👶 18 years
-- 🔥 Robotic Basic (Cursed in [IPRJ/UERJ](http://www.iprj.uerj.br))
+- 🔥 Robotic Basic (Cursed at [IPRJ/UERJ](http://www.iprj.uerj.br))
 
 # Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
