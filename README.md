@@ -25,8 +25,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-# My discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/846782948916592664)](https://discord.com/users/846782948916592664)
-
 ![Snake Animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg)
