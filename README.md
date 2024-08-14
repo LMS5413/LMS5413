@@ -3,6 +3,9 @@
 - 👶 18 years
 - 🔥 Robotic Basic (Cursed at [IPRJ/UERJ](http://www.iprj.uerj.br))
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact)
+
+
 # Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
