@@ -3,7 +3,7 @@
 - 👶 18 years
 - 🔥 Robotic Basic (Cursed at [IPRJ/UERJ](http://www.iprj.uerj.br))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&theme=dark)
 
 
 # Languages
