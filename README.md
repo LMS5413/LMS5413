@@ -3,8 +3,6 @@
 - 👶 18 years
 - 🔥 Robotic Basic (Cursed at [IPRJ/UERJ](http://www.iprj.uerj.br))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&theme=dark)
-
 
 # Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,5 +38,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&theme=dark)
 
 ![Snake Animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg)
