@@ -1,6 +1,6 @@
 <h3> 🍕 &nbsp;LMS5413: </h3>
 
-- 👶 18 years
+- 18 old year
 - 🔥 Robotic Basic (Cursed at [IPRJ/UERJ](http://www.iprj.uerj.br))
 
 
