@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMS5413&theme=dark&hide_border=true" alt="GitHub Streak" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMS5413&theme=dark&hide_border=true" alt="GitHub Streak" width="70%">
 </p>
 
 <p align="center">
