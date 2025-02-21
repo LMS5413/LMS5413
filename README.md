@@ -7,7 +7,6 @@
 
 - 🎓 Studying **Robotics Engineering** at [IPRJ/UERJ](http://www.iprj.uerj.br)
 - 🛠️ Passionate about **automation, development, and cybersecurity**
-- 📍 Based in **Brazil**
 - 🎂 18 years old
 
 ---
