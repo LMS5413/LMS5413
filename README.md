@@ -72,8 +72,8 @@
 
 ## 🌟 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/LMS5413" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/LMS5413" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="https://discord.gg/users/846782948916592664" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
