@@ -9,7 +9,7 @@ I'm a full-stack developer passionate about solving problems through automation 
 Currently studying Robotics and diving deep into cybersecurity, I enjoy blending creativity with performance.
 
 - 🎂 18 years old  
-- 🧠 Focused on **web development, automation, and offensive security**  
+- 🧠 Focused on **web development, automation, and defensive security**  
 - 🔍 Constantly exploring the world where **hardware meets software**
 
 ---
