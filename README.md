@@ -1,12 +1,16 @@
-<h1 align="center">👋 Hi, I'm Leonardo</h1>
-<h3 align="center">🚀 Robotics Student | 💻 Full-Stack Developer | ⚡ Security Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Leonardo</h1>
+<h3 align="center">🎓 Robotics Student • 💻 Full-Stack Developer • 🔐 Cybersecurity Explorer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🛠️ Passionate about **automation, development, and cybersecurity**
-- 🎂 18 years old
+I'm a full-stack developer passionate about solving problems through automation and technology.  
+Currently studying Robotics and diving deep into cybersecurity, I enjoy blending creativity with performance.
+
+- 🎂 18 years old  
+- 🧠 Focused on **web development, automation, and offensive security**  
+- 🔍 Constantly exploring the world where **hardware meets software**
 
 ---
 
@@ -22,12 +26,12 @@
 
 ### 🧩 Frameworks, Runtimes & Libraries
 <p align="center">
+  <img src="https://img.shields.io/badge/Bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+  <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
-  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
-  <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
 </p>
 
 ### 🗄️ Databases
@@ -55,6 +59,16 @@
 
 ---
 
+## 🔒 Interests
+
+- 🕵️ Offensive Security & Ethical Hacking  
+- 🤖 Robotics & Embedded Systems  
+- 🌐 Distributed Systems & Web Performance  
+- ⚙️ DevOps, Docker & Container Security  
+- 📈 Continuous Learning & Open Source
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -73,6 +87,7 @@
 ---
 
 ## 🌟 Let's Connect!
+
 <p align="center">
   <a href="https://x.com/LMS5413" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
