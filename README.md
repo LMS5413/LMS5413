@@ -64,8 +64,7 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 - 🕵️ Defensive Security
 - 🤖 Robotics & Embedded Systems  
 - 🌐 Distributed Systems & Web Performance  
-- ⚙️ DevOps, Docker & Container Security  
-- 📈 Continuous Learning & Open Source
+- ⚙️ DevOps, Docker & Container Security 
 
 ---
 
