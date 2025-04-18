@@ -61,7 +61,7 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 
 ## 🔒 Interests
 
-- 🕵️ Offensive Security & Ethical Hacking  
+- 🕵️ Defensive Security
 - 🤖 Robotics & Embedded Systems  
 - 🌐 Distributed Systems & Web Performance  
 - ⚙️ DevOps, Docker & Container Security  
