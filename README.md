@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Leonardo</h1>
-<h3 align="center">🎓 Robotics Student • 💻 Full-Stack Developer • 🔐 Cybersecurity Explorer</h3>
+<h3 align="center">🎓 Robotics Student • 💻 Full-Stack Developer</h3>
 
 ---
 
