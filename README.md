@@ -1,22 +1,22 @@
 <h1 align="center">👋 Hello, I'm Leonardo</h1>
-<h3 align="center">🎓 Robotics Student • 💻 Full-Stack Developer</h3>
+<h3 align="center">🎓 Information Systems Undergraduate at CEFET/RJ • 💻 Full-Stack Developer • 🔐 Security Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer passionate about solving problems through automation and technology.  
-Currently studying Robotics and diving deep into cybersecurity, I enjoy blending creativity with performance.
+I’m a full-stack developer with a strong interest in automation, performance, and secure software architecture.  
+Currently pursuing a **Bachelor’s degree in Information Systems at CEFET/RJ**, I blend academic foundations with practical experience to create scalable and resilient solutions.
 
-- 🎂 19 years old  
-- 🧠 Focused on **web development, automation, and defensive security**  
-- 🔍 Constantly exploring the world where **hardware meets software**
+- 🧠 Focus areas: **Web Development, Automation, and Defensive Security**
+- 🤝 Enjoy working at the intersection of **hardware and software**
+- 🚀 Constantly learning and improving to solve real-world problems with clean and effective code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Programming Languages
+### 🚀 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -24,12 +24,11 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-### 🧩 Frameworks, Runtimes & Libraries
+### 🧩 Frameworks & Runtimes
 <p align="center">
-  <img src="https://img.shields.io/badge/Bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
-  <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
@@ -61,10 +60,10 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 
 ## 🔒 Interests
 
-- 🕵️ Defensive Security
+- 🛡️ Defensive Security & Container Hardening  
 - 🤖 Robotics & Embedded Systems  
-- 🌐 Distributed Systems & Web Performance  
-- ⚙️ DevOps, Docker & Container Security 
+- ⚙️ DevOps & System Architecture  
+- 🌐 Web Performance & Distributed Applications
 
 ---
 
@@ -85,7 +84,7 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 
 ---
 
-## 🌟 Let's Connect!
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://x.com/LMS5413" target="_blank">
