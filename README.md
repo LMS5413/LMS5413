@@ -1,14 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o Leonardo</h1>
-<h3 align="center">💻 Desenvolvedor Full-Stack | 🎓 Bacharelando em Sistemas de Informação (CEFET/RJ) | 🔐 Segurança & IoT</h3>
+<h3 align="center">💻 Desenvolvedor Full-Stack | 🔐 Segurança</h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
 Sou desenvolvedor **full-stack** com foco em **automação, performance e segurança de software**.  
-Atualmente curso o **Bacharelado em Sistemas de Informação no CEFET/RJ**, onde aplico fundamentos acadêmicos aliados à prática no desenvolvimento de soluções **escaláveis, seguras e eficientes**.  
-
-Tenho interesse especial em **IoT (Internet das Coisas)**, explorando plataformas como **ESP32 e Arduino UNO**, integrando hardware e software para criar sistemas inteligentes e conectados.  
+Atualmente curso o **Bacharelado em Sistemas de Informação no CEFET/RJ**, onde aplico fundamentos acadêmicos aliados à prática no desenvolvimento de soluções **escaláveis, seguras e eficientes**.   
 
 - 🧠 Áreas de interesse: **Desenvolvimento Web, Automação, Segurança Defensiva e IoT**  
 - ⚡ Experiência em **arquitetura de sistemas distribuídos e containers**  
@@ -22,8 +20,7 @@ Tenho interesse especial em **IoT (Internet das Coisas)**, explorando plataforma
 - **Frameworks & Runtimes:** Node.js, Express, Fastify, Angular, Spring  
 - **Bancos de Dados:** MongoDB, MySQL, SQLite, Redis  
 - **Cloud & DevOps:** Docker, Vercel, Supabase, Cloudflare  
-- **Sistemas Operacionais:** Windows, Ubuntu, Arch Linux  
-- **IoT & Hardware:** ESP32, Arduino UNO  
+- **Sistemas Operacionais:** Windows, Ubuntu, Arch Linux 
 
 ---
 
