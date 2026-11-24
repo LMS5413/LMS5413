@@ -3,7 +3,7 @@
 
 # Leonardo Machado
 
-**Full-Stack Developer · Software Engineering · Cybersecurity**
+**Full-Stack Developer · Software Engineering**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+and+secure+systems;Turning+complex+problems+into+simple+solutions;Engineering+with+performance+in+mind" alt="Typing SVG" />
@@ -83,10 +83,6 @@ My interests extend beyond application development, exploring distributed system
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Cybersecurity</h3>
-      Defensive security, secure development, container hardening, and system resilience.
-    </td>
     <td width="50%">
       <h3>IoT & Embedded Systems</h3>
       Hardware-software integration, connected devices, and intelligent automation.
